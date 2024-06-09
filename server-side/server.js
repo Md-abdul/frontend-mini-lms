@@ -6,5 +6,5 @@ const port = process.env.PORT || 8080; // you can use any port number here; i ch
 
 server.use(middlewares);
 server.use(router);
-
+//"start": "json-server --watch db.json --port 8080"
 server.listen(port);

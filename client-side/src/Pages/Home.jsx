@@ -23,7 +23,7 @@ export const Home = () => {
   const [isLoading, setIsLoading] = useState(true); 
 
   useEffect(() => {
-    fetch("http://localhost:8080/courses")
+    fetch("https://mock-1-6cb8.onrender.com/courses")
       .then((response) => response.json())
       .then((data) => {
         setCourses(data);

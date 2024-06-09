@@ -73,7 +73,7 @@ export const AddCourses = () => {
     const newErrors = validateForm();
     if (Object.keys(newErrors).length === 0) {
       try {
-        const response = await fetch("http://localhost:8080/courses", {
+        const response = await fetch("https://mock-1-6cb8.onrender.com/courses", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

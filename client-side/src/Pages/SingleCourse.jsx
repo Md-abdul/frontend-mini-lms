@@ -30,7 +30,7 @@ export const SingleCourse = () => {
   const toast = useToast();
 
   useEffect(() => {
-    fetch(`http://localhost:8080/courses/${id}`)
+    fetch(`https://mock-1-6cb8.onrender.com/courses/${id}`)
       .then((response) => response.json())
       .then((data) => {
         setCourse(data);
@@ -44,7 +44,7 @@ export const SingleCourse = () => {
   };
 
   const handleSave = () => {
-    fetch(`http://localhost:8080/courses/${id}`, {
+    fetch(`https://mock-1-6cb8.onrender.com/courses/${id}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",

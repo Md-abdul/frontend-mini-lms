@@ -54,7 +54,7 @@ export const Signup = () => {
     if (Object.keys(newErrors).length === 0) {
       try {
         setIsSubmitting(true);
-        const response = await fetch("http://localhost:8080/userdata", {
+        const response = await fetch("https://mock-1-6cb8.onrender.com/userdata", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

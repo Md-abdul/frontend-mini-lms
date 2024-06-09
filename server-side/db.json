@@ -4,7 +4,7 @@
       "id": "1",
       "title": "JavaScript",
       "Description": "An in-depth course on JavaScript, covering everything from basic syntax and functions to advanced topics like closures, asynchronous programming, and modern ES6+ features.",
-      "progress": "in-progress",
+      "progress": "completed",
       "materials": [
         "Eloquent JavaScript",
         "You Don't Know JS",
@@ -131,6 +131,17 @@
         "JavaScript: The Good Parts"
       ],
       "lessons": "22"
+    },
+    {
+      "id": "4776",
+      "title": "sjfkjsl",
+      "Description": "sdfsfsfsd",
+      "progress": "not-started",
+      "materials": [
+        "fsdfsdfa",
+        "asfsfa"
+      ],
+      "lessons": "35"
     }
   ],
   "userdata": [
@@ -145,6 +156,13 @@
       "id": "96bc",
       "username": "Jhon",
       "email": "jhon@gmail.com",
+      "password": "123456",
+      "remember": false
+    },
+    {
+      "id": "00ed",
+      "username": "abdul",
+      "email": "a@gamil.com",
       "password": "123456",
       "remember": false
     }
