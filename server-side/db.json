@@ -1,0 +1,152 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "JavaScript",
+      "Description": "An in-depth course on JavaScript, covering everything from basic syntax and functions to advanced topics like closures, asynchronous programming, and modern ES6+ features.",
+      "progress": "in-progress",
+      "materials": [
+        "Eloquent JavaScript",
+        "You Don't Know JS",
+        "JavaScript: The Good Parts"
+      ],
+      "lessons": 20
+    },
+    {
+      "id": "2",
+      "title": "Python",
+      "Description": "A comprehensive Python course that starts with fundamental concepts and progresses to more advanced topics such as data structures, algorithms, web development with Django and Flask, and machine learning using libraries like TensorFlow and PyTorch.",
+      "progress": "in-progress",
+      "materials": [
+        "Python Crash Course",
+        "Automate the Boring Stuff with Python",
+        "Fluent Python"
+      ],
+      "lessons": 25
+    },
+    {
+      "id": "3",
+      "title": "Data Science",
+      "Description": "This course covers the entire data science pipeline, including data collection, cleaning, exploration, visualization, and model building using Python and R. Topics include statistics, machine learning, deep learning, and big data technologies like Hadoop and Spark.",
+      "progress": "completed",
+      "materials": [
+        "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "Data Science from Scratch",
+        "Python for Data Analysis"
+      ],
+      "lessons": 30
+    },
+    {
+      "id": "4",
+      "title": "Web Development",
+      "Description": "A complete guide to web development, starting from HTML, CSS, and JavaScript, moving on to front-end frameworks like React and Angular, and covering back-end development with Node.js, Express, and databases like MongoDB and SQL.",
+      "progress": "pending",
+      "materials": [
+        "HTML and CSS: Design and Build Websites",
+        "JavaScript and JQuery",
+        "Learning React"
+      ],
+      "lessons": 40
+    },
+    {
+      "id": "5",
+      "title": "Machine Learning",
+      "Description": "An extensive machine learning course that introduces concepts such as supervised and unsupervised learning, neural networks, deep learning, natural language processing, and reinforcement learning, using popular tools and libraries.",
+      "progress": "in-progress",
+      "materials": [
+        "Pattern Recognition and Machine Learning",
+        "Deep Learning with Python",
+        "Machine Learning Yearning"
+      ],
+      "lessons": 35
+    },
+    {
+      "id": "6",
+      "title": "Cyber Security",
+      "Description": "A detailed course on cyber security, covering network security, ethical hacking, cryptography, threat detection, vulnerability assessment, and incident response, with practical labs and real-world scenarios.",
+      "progress": "pending",
+      "materials": [
+        "The Web Application Hacker's Handbook",
+        "Metasploit: The Penetration Tester's Guide",
+        "Applied Cryptography"
+      ],
+      "lessons": 28
+    },
+    {
+      "id": "7",
+      "title": "DevOps",
+      "Description": "This course explores DevOps practices and tools, including continuous integration and delivery, infrastructure as code, containerization with Docker, orchestration with Kubernetes, and monitoring and logging with Prometheus and Grafana.",
+      "progress": "completed",
+      "materials": [
+        "The Phoenix Project",
+        "The DevOps Handbook",
+        "Kubernetes Up & Running"
+      ],
+      "lessons": 22
+    },
+    {
+      "id": "8",
+      "title": "Cloud Computing",
+      "Description": "A thorough course on cloud computing, covering the principles and services of major cloud providers like AWS, Azure, and Google Cloud. Topics include cloud architecture, deployment models, serverless computing, and cost management.",
+      "progress": "completed",
+      "materials": [
+        "Cloud Architecture Patterns",
+        "AWS Certified Solutions Architect Study Guide",
+        "Azure for Architects"
+      ],
+      "lessons": 30
+    },
+    {
+      "id": "9",
+      "title": "Artificial Intelligence",
+      "Description": "An advanced AI course that delves into the fundamentals and applications of artificial intelligence, including search algorithms, logic and planning, probabilistic reasoning, computer vision, speech recognition, and robotics.",
+      "progress": "in-progress",
+      "materials": [
+        "Artificial Intelligence: A Modern Approach",
+        "Deep Learning",
+        "AI Superpowers"
+      ],
+      "lessons": 45
+    },
+    {
+      "id": "10",
+      "title": "Blockchain",
+      "Description": "A comprehensive course on blockchain technology, covering the basics of distributed ledgers, smart contracts, consensus algorithms, and cryptocurrency. The course also explores real-world applications and future trends in blockchain.",
+      "progress": "completed",
+      "materials": [
+        "Mastering Bitcoin",
+        "Blockchain Basics",
+        "The Basics of Bitcoins and Blockchains"
+      ],
+      "lessons": 18
+    },
+    {
+      "id": "3525",
+      "title": "JavaScript",
+      "Description": "An in-depth course on JavaScript, covering everything from basic syntax and functions to advanced topics like closures, asynchronous programming, and modern ES6+ features.",
+      "progress": "not-started",
+      "materials": [
+        "Eloquent JavaScript",
+        "You Don't Know JS",
+        "JavaScript: The Good Parts"
+      ],
+      "lessons": "22"
+    }
+  ],
+  "userdata": [
+    {
+      "id": "725b",
+      "username": "jack",
+      "email": "jack@gmail.com",
+      "password": "123456",
+      "remember": false
+    },
+    {
+      "id": "96bc",
+      "username": "Jhon",
+      "email": "jhon@gmail.com",
+      "password": "123456",
+      "remember": false
+    }
+  ]
+}
