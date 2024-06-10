@@ -48,6 +48,10 @@ Welcome to the Learning Management System (LMS). This platform allows students t
 ### Teacher Login Page 🔐
 ![teacher log](https://github.com/Md-abdul/frontend-mini-lms/assets/112768514/15a2a4d0-a908-46b0-9460-15e19cc25330)
 
+### Teacher Login credentials 🔐
+- Email :- admin@gmail.com -
+- password :- admin -
+
 
 ## 🚀 Getting Started
 
